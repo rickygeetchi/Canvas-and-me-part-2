@@ -1,1 +1,1 @@
-Canvas solutions part 1
+Canvas solutions part 2
